@@ -18,6 +18,9 @@ nodejs version v4.4.7 or later
 ###Getting Started###
 Using the terminal command:
 	> git clone https://github.com/guumeyer/SearchVideoAppReactWithRedux.git
+	
 	> cd SearchVideoAppReactWithRedux
+	
 	> npm install
+	
 	> npm start
